@@ -195,6 +195,8 @@ If you want to use a custom model with a different resolution or detect more cla
 
 The original source code for this package is based on the work by [Ibai Gorordo](https://github.com/ibaiGorordo) in the [ONNX-YOLO-World-Open-Vocabulary-Object-Detection](https://github.com/ibaiGorordo/ONNX-YOLO-World-Open-Vocabulary-Object-Detection) repository.
 
+Image reference is [Here](https://unsplash.com/photos/aerial-photography-of-cars-on-parking-lot-WPVtT0MEM00)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
