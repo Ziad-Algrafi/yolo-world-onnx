@@ -4,7 +4,7 @@ https://github.com/Ziad-Algrafi/yolo-world-onnx/blob/main/assets/parking_lot_pro
 # YOLO-World-ONNX
 
 [![PyPI version](https://badge.fury.io/py/yolo-world-onnx.svg)](https://badge.fury.io/py/yolo-world-onnx)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ziad-Algrafi/yolo-world-onnx/blob/main/YOLO_World_ONNX.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ziad-Algrafi/yolo-world-onnx/blob/main/assets/YOLO_World_ONNX.ipynb)
 [![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
