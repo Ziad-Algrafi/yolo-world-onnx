@@ -1,13 +1,11 @@
-from setuptools import setup, find_packages
+from setuptools import setup
 
 setup(
     name="yolo-world-onnx",
     version="0.1.0",
-    packages=find_packages(),
+    packages=["yolo_world_onnx"],
     include_package_data=True,
     install_requires=[
-        "setuptools==69.5.1",
-        "wheel==0.43.0",
         "numpy",
         "opencv-python",
         "onnxruntime-gpu",
@@ -17,10 +15,10 @@ setup(
     ],
     author="Ziad-Algrafi",
     author_email="ZiadAlgrafi@gmail.com",
-    description="YOLO-World-ONNX is a Python package for running inference on YOLO-WORLD Open-vocabulary-object detection model using ONNX models. It provides an easy-to-use interface for performing inference on images and videos using onnxruntime.",
-    long_description=open("../README.md").read(),
+    description="ONNX-YOLO is a Python package for running inference on YOLO-WORLD open-vocabulary object detection models using ONNX runtime.",
+    long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/Ziad-Algrafi/yolo-world-onnx",
+    url="https://github.com/Ziad-Algrafi/onnx-yolo",
     classifiers=[
         "Development Status :: 5 - Stable",
         "Intended Audience :: Developers",
