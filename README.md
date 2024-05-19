@@ -200,3 +200,4 @@ Image reference is [Here](https://unsplash.com/photos/aerial-photography-of-cars
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+The License of the models is GPL-3.0 license: [License](https://github.com/AILab-CVC/YOLO-World/blob/master/LICENSE)
