@@ -1,5 +1,5 @@
 <div align="center">
-
+https://github.com/Ziad-Algrafi/yolo-world-onnx/blob/main/assets/parking_lot_prompt_red_car.jpg
 # YOLO-World-ONNX
 
 [![PyPI version](https://badge.fury.io/py/yolo-world-onnx.svg)](https://badge.fury.io/py/yolo-world-onnx)
