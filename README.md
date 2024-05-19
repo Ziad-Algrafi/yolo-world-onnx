@@ -1,4 +1,4 @@
-https://github.com/Ziad-Algrafi/yolo-world-onnx/blob/main/assets/parking_lot_prompt_red_car.jpg
+![Parking Lot Prompt Red Car](https://raw.githubusercontent.com/Ziad-Algrafi/yolo-world-onnx/main/assets/parking_lot_prompt_red_car.jpg)
 <div align="center">
 
 # YOLO-World-ONNX
