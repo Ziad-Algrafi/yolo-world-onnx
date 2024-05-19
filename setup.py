@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="yolo-world-onnx",
-    version="0.1.0",
+    version="0.1.1",
     packages=["yolo_world_onnx"],
     include_package_data=True,
     install_requires=[
