@@ -1,6 +1,9 @@
 # YOLO-World-ONNX
 
 [![PyPI version](https://badge.fury.io/py/yolo-world-onnx.svg)](https://badge.fury.io/py/yolo-world-onnx)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/your-repo-name/blob/main/notebook-name.ipynb)
+[![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 YOLO-World-ONNX is a Python package that enables running inference on YOLO-WORLD open-vocabulary object detection models using ONNX runtime. It provides a user-friendly interface for performing object detection on images or videos. The package leverages ONNX models to deliver fast inference time, making it suitable for a wide range of object detection applications.
 
