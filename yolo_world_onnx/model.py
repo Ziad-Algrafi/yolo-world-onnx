@@ -22,7 +22,7 @@ def select_device(device):
     elif device == "cpu":
         return "cpu"
     else:
-        print("Invalid device input or GPU is not Available. For chossing a CPU device enter 'cpu' and for a GPU enters '0', defaulting to a cpu")
+        print("Invalid device input or GPU is not Available. For choosing a CPU device enter 'cpu' and for a GPU enters '0', defaulting to a cpu")
         return "cpu"
 
 class TextEmbedder:
