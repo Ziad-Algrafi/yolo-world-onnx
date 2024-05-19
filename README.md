@@ -1,7 +1,8 @@
-![Parking Lot Prompt Red Car](https://raw.githubusercontent.com/Ziad-Algrafi/yolo-world-onnx/main/assets/parking_lot_prompt_red_car.jpg)
 <div align="center">
 
 # YOLO-World-ONNX
+
+![Parking Lot Prompt Red Car](https://raw.githubusercontent.com/Ziad-Algrafi/yolo-world-onnx/main/assets/parking_lot_prompt_red_car.jpg)
 
 [![PyPI version](https://badge.fury.io/py/yolo-world-onnx.svg)](https://badge.fury.io/py/yolo-world-onnx)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ziad-Algrafi/yolo-world-onnx/blob/main/assets/YOLO_World_ONNX.ipynb)
