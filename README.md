@@ -1,6 +1,7 @@
+<div align="center">
+
 # YOLO-World-ONNX
 
-<div align="center">
 
 [![PyPI version](https://badge.fury.io/py/yolo-world-onnx.svg)](https://badge.fury.io/py/yolo-world-onnx)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/your-repo-name/blob/main/notebook-name.ipynb)
