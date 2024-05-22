@@ -18,7 +18,7 @@ setup(
     description="ONNX-YOLO is a Python package for running inference on YOLO-WORLD open-vocabulary object detection models using ONNX runtime.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/Ziad-Algrafi/onnx-yolo",
+    url="https://github.com/Ziad-Algrafi/yolo-world-onnx/",
     classifiers=[
         "Development Status :: 5 - Production/Stable",
         "Intended Audience :: Developers",
