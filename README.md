@@ -187,7 +187,7 @@ cv.destroyAllWindows()
 
 ## Custom Models
 
-YOLO-World-ONNX supports custom ONNX models that are exported in the same format as the models provided in this repository. The code is designed to work dynamically with models of any number of classes. Even if the model is exported on 100 classes and the user specifies only 3 classes to be detected in the run, YOLO-World-ONNX will detect those 3 classes accordingly.
+YOLO-World-ONNX supports custom ONNX models that are exported in the same format as the models provided in this repository. The code is designed to work dynamically with models of any number of classes. Even if the model is exported on 100 classes and the user specifies only 3 classes to be detected in the runtime, YOLO-World-ONNX will detect those 3 classes accordingly.
 
 If you want to use a custom model with a different resolution or detect more classes, you can follow the guide on exporting custom models in the [ONNX-YOLO-World-Open-Vocabulary-Object-Detection](https://github.com/ibaiGorordo/ONNX-YOLO-World-Open-Vocabulary-Object-Detection) repository.
 
